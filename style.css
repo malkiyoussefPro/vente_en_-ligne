@@ -1,0 +1,60 @@
+*{
+    font-family: 'lato', sans-serif;
+}
+
+.main{
+
+    background-color: rgb(222, 255, 132);
+    width: 40%;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 1);
+    margin-top: 15px;
+    padding: 5px;
+
+
+}
+img{
+    margin-bottom: 5px;
+}
+span{
+    font-weight: bold;
+}
+h2{
+    font-family: 'lato', sans-serif;
+}
+
+input{
+    margin-bottom: 5px;
+    width: 60%;
+    padding: 5px;
+    font-family: 'lato', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+button{
+    border: none;
+    padding: 10px;
+    width: 405;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: rgb(233, 138, 71);
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+label{
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: rgb(55, 179, 160);
+    color: white;
+}
+a{
+    text-decoration: none;
+    
+    font-size: 20px;
+    color: tomato;
+    font-weight: bold;
+}
+
